@@ -6,7 +6,7 @@ This is a demo project for Spring Boot with Oracle Database integration.
 
 - Java 17
 - Maven 3.9.9
-- Oracle Database
+- Docker
 
 ## Getting Started
 
